@@ -5,10 +5,10 @@
 
 ## Nossa atividade aqui no GitHub
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inboxagenciadigital&theme=gruvbox" />
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inboxagenciadigital&theme=monokai " />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=inboxagenciadigital&show_icons=true&theme=gruvbox" />
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=inboxagenciadigital&show_icons=true&theme=monokai " />
 </a>
 
   ## Um pouco das tecnologias usadas em nossos projetos
