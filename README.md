@@ -14,10 +14,18 @@
   ## Um pouco das tecnologias usadas em nossos projetos
 <div style="display: inline_block">
   <br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="50" />
+<a href="https://inboxagenciadigital.com.br" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+</a>
+ <a href="https://inboxagenciadigital.com.br" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" />
+ </a>
+ <a href="https://inboxagenciadigital.com.br" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50" />
+ </a>
+<a href="https://inboxagenciadigital.com.br" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="50" />
+</a>
 </div>
 
 ## você pode nos encontrar nas redes sociais
