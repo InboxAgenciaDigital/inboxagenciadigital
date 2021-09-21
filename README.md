@@ -30,9 +30,15 @@
 
 ## você pode nos encontrar nas redes sociais
 <div style="display: inline_block">
-<a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="http://www.whatzlink.com/inboxagenciadigital" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+<a href="https://instagram.com/inboxagenciadigital" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://open.spotify.com/playlist/7AmYgWjnhozCDSubBtfjlX?si=c27e1c1573a64c9d" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+</a>
  </div>
  
    ![Snake animation](https://github.com/inboxagenciadigital/inboxagenciadigital/blob/output/github-contribution-grid-snake.svg)
